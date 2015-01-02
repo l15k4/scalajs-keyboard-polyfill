@@ -10,5 +10,4 @@ printable character. pfKeyCode and optional pfCharCode properties are added to E
 
 NOTE: 
 
-it might be eventually merged into [scala-js-dom](https://github.com/scala-js/scala-js-dom), see my [PR](https://github.com/scala-js/scala-js-dom/pull/61),
-so you should probably use my [branch](https://github.com/l15k4/scala-js-dom/tree/keyboard-polyfill) instead of this library
+it might be eventually merged into [scala-js-dom](https://github.com/scala-js/scala-js-dom), see my [PR](https://github.com/scala-js/scala-js-dom/pull/61)
