@@ -1,5 +1,8 @@
-scalajs-keyboard-polyfill
-=========================
+#scalajs-keyboard-polyfill
+
+
+* dependency : "com.viagraphs" %%% "scalajs-keyboard-polyfill" % "0.0.3-SNAPSHOT"
+* Scala.js version : 0.6.0-RC1
 
 Improves keyboard event handling experience in hostile browser environment
 
