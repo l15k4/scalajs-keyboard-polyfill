@@ -1,7 +1,13 @@
 ## scalajs-keyboard-polyfill
 
-* dependency : `"com.pragmaxim" %%% "scalajs-keyboard-polyfill" % "0.0.5-SNAPSHOT"`
 * Scala.js version : 0.6.31
+
+```scala
+resolvers in ThisBuild ++= Seq(
+  Resolver.bintrayRepo("pragmaxim", "maven")
+)
+libraryDependencies ++= Seq("com.pragmaxim" %%% "scalajs-keyboard-polyfill" % "0.0.5")
+```
 
 Improves keyboard event handling experience in hostile browser environment
 
