@@ -1,5 +1,4 @@
-#scalajs-keyboard-polyfill
-
+## scalajs-keyboard-polyfill
 
 * dependency : `"com.pragmaxim" %%% "scalajs-keyboard-polyfill" % "0.0.5-SNAPSHOT"`
 * Scala.js version : 0.6.31
