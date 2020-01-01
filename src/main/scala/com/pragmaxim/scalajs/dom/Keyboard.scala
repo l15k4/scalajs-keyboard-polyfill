@@ -1,4 +1,4 @@
-package com.viagraphs.scalajs.dom
+package com.pragmaxim.scalajs.dom
 
 import org.scalajs.dom
 import org.scalajs.dom.KeyboardEvent
@@ -126,7 +126,7 @@ object ChCode {
     (SquareBracketOpen,   >('{',      '[')),
     (Backslash,           >('|',      '\\')),
     (SquareBracketClose,  >('}',      ']')),
-    (SingleQuote,         >('"',      ''')),
+    (SingleQuote,         >('"',      '\'')),
     (Semicolon,           >(':',      ';')),
     (Equals,              >('+',      '='))
   ) ++ letterKey2Char
